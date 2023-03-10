@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdier -m 751 my_dir
